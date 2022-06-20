@@ -13,6 +13,10 @@
 
 _This is a webpage written in HTML using Bootstrap CSS styling_
 
+## Link to Site via GitHub Pages
+
+*_https://user8240.github.io/vacation-site/_
+
 ## Setup/Installation Requirements
 
 * _none_
